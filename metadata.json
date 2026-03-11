@@ -1,0 +1,5 @@
+{
+  "name": "PartyPlay",
+  "description": "A multiplayer party gaming platform where the TV acts as the console screen and smartphones act as controllers.",
+  "requestFramePermissions": []
+}
